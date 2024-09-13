@@ -1,8 +1,8 @@
-<h2 align="left">Hello, welcome to my GitHub👋</h2>
+<h2 align="left">Hello, welcome to my GitHub !👋</h2>
 
 ###
 
-<p align="left">👩‍💻 Software Enginner @Itaú<br>🎓 Systems Analysis and Development Student @ Puc</p>
+<p align="left">👩‍💻 Software Enginner @Itaú<br><br>🎓 Systems Analysis and Development Student @ Puc</p>
 
 ###
 
@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
 </div>
