@@ -1,73 +1,41 @@
 # Olá, eu sou a Ana Maria Pessoa 👋
 
-Sou Engenheira de Software com foco no desenvolvimento backend, atuando na construção e evolução de sistemas robustos, escaláveis e de alta disponibilidade.
+Engenheira de Software focada no desenvolvimento de sistemas robustos, escaláveis e de alta disponibilidade para o ecossistema de backend. Atualmente, atuo na evolução de soluções no setor financeiro, aplicando padrões de arquitetura modernos e boas práticas de engenharia de software.
 
-Atualmente, trabalho com soluções para o setor financeiro, aplicando boas práticas de engenharia de software, arquitetura de sistemas, qualidade de código e desenvolvimento de APIs.
-
-* 🔭 **Atuação atual:** Engenheira de Software no Itaú Unibanco.
-* 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — PUC Minas.
-* 🎯 **Foco de carreira:** Backend, Microsserviços, Arquitetura Hexagonal, Design Patterns, Clean Architecture e Cloud Computing.
-* 🚀 **Principais interesses:** Java, Spring Boot, APIs REST, AWS, mensageria, testes automatizados e CI/CD.
+- 🔭 **Atuação Atual:** Analista de Engenharia TI / Engenheira de Software no Itaú Unibanco.
+- 🎓 **Formação:** Sistemas de Informação / Análise e Desenvolvimento de Sistemas (PUC Minas).
+- 🎯 **Foco de Carreira:** Arquitetura de Microsserviços, Design Patterns, Clean Architecture e Cloud Computing (AWS).
 
 ---
 
-## 🛠️ Tecnologias e Competências
+### 🛠️ Tecnologias e Competências
 
-| Categoria                   | Tecnologias / Práticas                                                         |
-| :-------------------------- | :----------------------------------------------------------------------------- |
-| **Linguagens & Frameworks** | Java, Spring Boot, Python                                                      |
-| **Backend**                 | APIs REST, Spring MVC, Spring Data JPA, Spring Security                        |
-| **Arquitetura & Design**    | Microsserviços, Arquitetura Hexagonal, DDD, Clean Code, SOLID, Design Patterns |
-| **Mensageria & Eventos**    | Apache Kafka, AWS SQS, RabbitMQ                                                |
-| **Bancos de Dados**         | PostgreSQL, MySQL, MongoDB, Redis                                              |
-| **Cloud & DevOps**          | AWS, Docker, GitHub Actions, CI/CD                                             |
-| **Testes**                  | JUnit, Mockito, Testcontainers, testes unitários e testes de integração        |
-
----
-
-## 📌 Sobre minha atuação
-
-Tenho interesse em desenvolver soluções backend bem estruturadas, com foco em performance, escalabilidade, manutenibilidade e clareza arquitetural.
-
-Busco aplicar boas práticas de desenvolvimento em todo o ciclo de construção de software, desde a modelagem da solução até a implementação, testes, versionamento, documentação e entrega contínua.
-
-Atualmente, meus estudos e projetos estão voltados para:
-
-* Desenvolvimento de APIs REST com Java e Spring Boot;
-* Arquitetura de microsserviços;
-* Arquitetura Hexagonal e Clean Architecture;
-* Design Patterns e princípios SOLID;
-* Testes automatizados com JUnit, Mockito e Testcontainers;
-* Mensageria com Kafka, RabbitMQ e AWS SQS;
-* Docker, CI/CD e práticas DevOps;
-* Serviços em nuvem com AWS.
+| Categoria | Tecnologias / Práticas |
+| :--- | :--- |
+| **Linguagens & Frameworks** | Java, Spring Boot (Data, Security, MVC, Cloud), Python |
+| **Arquitetura & Design** | Microsserviços, Arquitetura Hexagonal, DDD, Clean Code, Design Patterns |
+| **Mensageria & Eventos** | Apache Kafka, AWS SQS, RabbitMQ |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Cloud & DevOps** | AWS (Lambda, S3, EC2), Docker, CI/CD (GitHub Actions) |
+| **Testes** | JUnit, Mockito, Testcontainers, Integração e Unitários |
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub da Ana Maria Pessoa" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="160" alt="Linguagens mais utilizadas" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
----
-
-## 🔗 Vamos nos conectar?
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ana-maria-pessoa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ana%20Maria%20Pessoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pessoaana.m@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="E-mail" />
-  </a>
-</p>
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6)
 
 ---
 
-## 🐍 Contribuições
+### 🔗 Vamos nos conectar?
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ana-MP/Ana-MP/output/github-contribution-grid-snake.svg" alt="Animação da cobra de contribuições do GitHub" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Maria%20Pessoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-pessoa/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pessoaana.m@gmail.com)
+
+---
+
+### 🐍 Contribuições
+
+![Animação da Cobra](https://raw.githubusercontent.com/Ana-MP/Ana-MP/output/github-contribution-grid-snake.svg)
