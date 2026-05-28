@@ -48,17 +48,17 @@ Atualmente, meus estudos e projetos estão voltados para:
 
 <div align="center">
 
-<img
- height="160"
- src="https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
- alt="Estatísticas do GitHub"
-/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub"
+  />
 
-<img
- height="160"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6"
- alt="Linguagens mais utilizadas"
-/>
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas"
+  />
 
 </div>
 
