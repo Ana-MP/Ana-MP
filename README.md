@@ -47,16 +47,19 @@ Atualmente, meus estudos e projetos estão voltados para:
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" 
-    height="160" 
-    alt="Estatísticas do GitHub da Ana Maria Pessoa" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6" 
-    height="160" 
-    alt="Linguagens mais utilizadas no GitHub da Ana Maria Pessoa" 
-  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api?username=Ana-MP&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" 
+ height="160" 
+ alt="Estatísticas do GitHub da Ana Maria Pessoa" 
+/>
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-MP&layout=compact&theme=dracula&hide_border=true&langs_count=6&cache_seconds=1800" 
+ height="160" 
+ alt="Linguagens mais utilizadas no GitHub da Ana Maria Pessoa" 
+/>
+
 </div>
 
 ---
@@ -66,16 +69,17 @@ Atualmente, meus estudos e projetos estão voltados para:
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-maria-pessoa/" target="_blank">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn-Ana%20Maria%20Pessoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       height="35" 
       alt="LinkedIn" 
     />
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+
+  <a href="mailto:pessoaana.m@gmail.com" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       height="35" 
-      alt="Email" 
+      alt="E-mail" 
     />
   </a>
 </p>
@@ -85,11 +89,10 @@ Atualmente, meus estudos e projetos estão voltados para:
 ## 🐍 Contribuições
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Ana-MP/Ana-MP/output/github-contribution-grid-snake.svg" 
-    alt="Animação da cobra de contribuições do GitHub" 
-  />
+
+<img 
+ src="https://raw.githubusercontent.com/Ana-MP/Ana-MP/output/github-snake.svg" 
+ alt="Animação da cobra de contribuições do GitHub" 
+/>
+
 </div>
-
-
-
