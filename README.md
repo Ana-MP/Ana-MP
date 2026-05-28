@@ -32,7 +32,7 @@ Engenheira de Software focada no desenvolvimento de sistemas robustos, escaláve
 ### 🔗 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Maria%20Pessoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-pessoa/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pessoaana.m@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pessoaana.m@gmail.com)
 
 ---
 
